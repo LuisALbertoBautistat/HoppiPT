@@ -1,0 +1,14 @@
+com/hoppi/BuildConfig.java
+ com.hoppi.BuildConfig
+com/hoppi/ReactNativeFlipper.java
+ com.hoppi.ReactNativeFlipper
+ com.hoppi.ReactNativeFlipper$1
+ com.hoppi.ReactNativeFlipper$2
+ com.hoppi.ReactNativeFlipper$2$1
+com/hoppi/MainApplication.java
+ com.hoppi.MainApplication
+ com.hoppi.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/hoppi/MainActivity.java
+ com.hoppi.MainActivity
